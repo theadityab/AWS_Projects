@@ -36,7 +36,7 @@ This repository provides a detailed procedure for setting up a Three-Tier Web Ap
 8. Configure Auto Scaling to automatically adjust the number of instances based on traffic demand.
 9. Launch a bastion host in one of the public subnets for secure remote access.
 
-![Three Tier Web Application Architecture Diagram](Three-Tier-Web-Application/Architecture.jpg)
+![Three Tier Web Application Architecture Diagram](../Three-Tier-Web-Application/Architecture.jpg)
 
 ## Step-by-Step Procedure
 
