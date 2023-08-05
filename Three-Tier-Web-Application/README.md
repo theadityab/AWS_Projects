@@ -3,9 +3,8 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Procedure Overview](#procedure-overview)
-4. [Step-by-Step Procedure](#step-by-step-procedure)
+2. [Procedure Overview](#procedure-overview)
+3. [Step-by-Step Procedure](#step-by-step-procedure)
    1. [Create Virtual Private Cloud (VPC)](#step-1-create-virtual-private-cloud-vpc)
    2. [Create Subnets](#step-2-create-subnets)
    3. [Configure Internet Gateway](#step-3-configure-internet-gateway)
@@ -16,8 +15,8 @@
    8. [Set up Load Balancer](#step-8-set-up-load-balancer)
    9. [Configure Auto Scaling](#step-9-configure-auto-scaling)
    10. [Create Bastion Host](#step-10-create-bastion-host)
-5. [Conclusion](#conclusion)
-6. [License](#license)
+4. [Conclusion](#conclusion)
+
 
 ## Introduction
 
